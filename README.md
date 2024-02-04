@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @tuchchapon
-- 👀 I’m interested in Front-end and Mobile App
-- 🌱 I’m currently learning ReactJS
-- 📫 email: tuchchaponsuthamma@gmail.com
+# 👋 Hi, I’m Tuchchapon Suthamma
 
-<!---
-tuchchapon/tuchchapon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Node.js and backend development.
+- 🌱 Currently working as a backend developer at PTT Digital Solution.
+- 💼 Aspiring to be a full-stack developer.
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/tuchchapon/).
+
+📫 **Contact:**
+- Email: tuchchaponsuthamma@gmail.com
+
+Feel free to explore my repositories and projects. Let's connect and collaborate!
